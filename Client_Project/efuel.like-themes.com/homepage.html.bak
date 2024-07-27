@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<!-- Mirrored from Efuel.like-themes.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Aug 2022 06:53:08 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="format-detection" content="telephone=no">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="xmlrpc.html">
+	<title>Efuel &#8211; WordPress Theme</title>
+<script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "../connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script><link rel='dns-prefetch' href='http://w.sharethis.com/' />
+<link rel='dns-prefetch' href='http://maxcdn.bootstrapcdn.com/' />
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Efuel &raquo; Feed" href="feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Efuel &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="text/calendar" title="Efuel &raquo; iCal Feed" href="events/indexedf3.html?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/Efuel.like-themes.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.13"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55358,56760,9792,65039],[55358,56760,8203,9792,65039])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.mind934.css?ver=5.1.13' type='text/css' media='all' />
+<link rel='stylesheet' id='mpp_gutenberg-css'  href='wp-content/plugins/metronet-profile-picture/css/front-end-gutenberg4c71.css?ver=2.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles3c21.css?ver=5.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.mind934.css?ver=5.1.13' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='wp-content/plugins/post-views-counter/css/frontend6577.css?ver=1.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css'  href='../maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.mind934.css?ver=5.1.13' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-layoutb284.css?ver=3.5.10' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreenb284.css?ver=3.5.10' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='wp-content/plugins/woocommerce/assets/css/woocommerceb284.css?ver=3.5.10' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bootstrap-css'  href='wp-content/themes/Efuel/assets/css/bootstrap-grid5152.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Efuel-plugins-css-css'  href='wp-content/themes/Efuel/assets/css/pluginse29d.css?ver=1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='Efuel-theme-style-css'  href='wp-content/themes/Efuel/stylee29d.css?ver=1.4.9' type='text/css' media='all' />
+<style id='Efuel-theme-style-inline-css' type='text/css'>
+.page-header { background-image: url(wp-content/uploads/2018/08/header-bg-1.jpg) !important; } 
+#ltx-widgets-footer { background-image: url(wp-content/uploads/2018/08/footer-bg.png) !important; } 
+.go-top:before { background-image: url(wp-content/uploads/2018/08/go-top.png) !important; } 
+nav.navbar .logo img { max-height: 75px; } 
+@font-face {
+				font-family: 'Efuel-fontello';
+				  src: url('wp-content/uploads/2018/10/ltx-Efuelfd60.eot?1.4.9');
+				  src: url('wp-content/uploads/2018/10/ltx-Efuelfd60.eot?1.4.9#iefix') format('embedded-opentype'),
+				       url('wp-content/uploads/2018/10/ltx-Efuelfd60.html?1.4.9') format('woff2'),
+				       url('wp-content/uploads/2018/10/ltx-Efuelfd60.woff?1.4.9') format('woff'),
+				       url('wp-content/uploads/2018/10/ltx-Efuelfd60.ttf?1.4.9') format('truetype'),
+				       url('wp-content/uploads/2018/10/ltx-Efuelfd60.svg?1.4.9#ltx-Efuel') format('svg');
+				  font-weight: normal;
+				  font-style: normal;
+				}
+			:root {			  --black:  #242430;			  --gray:   #EAEFE8;			  --white:  #ffffff;			  --main:   #5CAD2F;			  --main-lighter:   #7acb4d;			  --second:   #5CAD2F;			  			  --font-main:   'Domine';			  --font-headers: 'Pridi';			  			}				
+</style>
+<link rel='stylesheet' id='Efuel-fontello-css'  href='wp-content/uploads/2018/10/ltx-Efuel-codese29d.css?ver=1.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.mine23c.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.mine23c.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-linecons-css'  href='wp-content/plugins/unyson/framework/static/libs/linecons/css/linecons87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-font-awesome-css'  href='wp-content/plugins/unyson/framework/static/libs/font-awesome/css/font-awesome.min87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-entypo-css'  href='wp-content/plugins/unyson/framework/static/libs/entypo/css/entypo87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-linearicons-css'  href='wp-content/plugins/unyson/framework/static/libs/lnr/css/lnr87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-typicons-css'  href='wp-content/plugins/unyson/framework/static/libs/typcn/css/typcn87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='fw-option-type-icon-v2-pack-unycon-css'  href='wp-content/plugins/unyson/framework/static/libs/unycon/unycon87b5.css?ver=2.7.22' type='text/css' media='all' />
+<link rel='stylesheet' id='Efuel_google_fonts-css'  href='http://fonts.googleapis.com/css?family=Domine:400,700%7CPridi:400,700,500%7CShare+Tech+Mono&amp;subset=latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-css'  href='wp-content/plugins/Booking/assets/libs/bootstrap/css/bootstrap8c1c.css?ver=3.3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdevelop-bts-theme-css'  href='wp-content/plugins/Booking/assets/libs/bootstrap/css/bootstrap-theme8c1c.css?ver=3.3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-client-pages-css'  href='wp-content/plugins/Booking/css/client0475.css?ver=8.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-admin-timeline-css'  href='wp-content/plugins/Booking/css/timeline0475.css?ver=8.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-css'  href='wp-content/plugins/Booking/css/calendar0475.css?ver=8.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpbc-calendar-skin-css'  href='wp-content/plugins/Booking/css/skins/traditional0475.css?ver=8.4.6' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<script id='st_insights_js' type='text/javascript' src='../w.sharethis.com/button/st_insightsc2fc.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&amp;product=simpleshare'></script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/Efuel.like-themes.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.minb284.js?ver=3.5.10'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carte23c.js?ver=5.7'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/modernizr-2.6.2.min61da.js?ver=2.6.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpbc_global1 = {"wpbc_ajaxurl":"http:\/\/Efuel.like-themes.com\/wp-admin\/admin-ajax.php","wpdev_bk_plugin_url":"http:\/\/Efuel.like-themes.com\/wp-content\/plugins\/Booking","wpdev_bk_today":"[2022,8,4,6,53]","visible_booking_id_on_page":"[]","booking_max_monthes_in_calendar":"1y","user_unavilable_days":"[999]","wpdev_bk_edit_id_hash":"","wpdev_bk_plugin_filename":"wpdev-booking.php","bk_days_selection_mode":"multiple","wpdev_bk_personal":"0","block_some_dates_from_today":"0","message_verif_requred":"This field is required","message_verif_requred_for_check_box":"This checkbox must be checked","message_verif_requred_for_radio_box":"At least one option must be selected","message_verif_emeil":"Incorrect email field","message_verif_same_emeil":"Your emails do not match","message_verif_selectdts":"Please, select booking date(s) at Calendar.","parent_booking_resources":"[]","new_booking_title":"Thank you for your online booking.  We will send confirmation of your booking as soon as possible.","new_booking_title_time":"7000","type_of_thank_you_message":"message","thank_you_page_URL":"http:\/\/Efuel.like-themes.com\/thank-you","is_am_pm_inside_time":"true","is_booking_used_check_in_out_time":"false","wpbc_active_locale":"en_US","wpbc_message_processing":"Processing","wpbc_message_deleting":"Deleting","wpbc_message_updating":"Updating","wpbc_message_saving":"Saving","message_checkinouttime_error":"Error! Please reset your check-in\/check-out dates above.","message_starttime_error":"Start Time is invalid. The date or time may be booked, or already in the past! Please choose another date or time.","message_endtime_error":"End Time is invalid. The date or time may be booked, or already in the past. The End Time may also be earlier that the start time, if only 1 day was selected! Please choose another date or time.","message_rangetime_error":"The time(s) may be booked, or already in the past!","message_durationtime_error":"The time(s) may be booked, or already in the past!","bk_highlight_timeslot_word":"Times:"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/Booking/js/wpbc_vars0475.js?ver=8.4.6'></script>
+<script type='text/javascript' src='wp-content/plugins/Booking/assets/libs/bootstrap/js/bootstrap8c1c.js?ver=3.3.5.1'></script>
+<script type='text/javascript' src='wp-content/plugins/Booking/js/datepick/jquery.datepick4963.js?ver=1.1'></script>
+<script type='text/javascript' src='wp-content/plugins/Booking/js/client0475.js?ver=8.4.6'></script>
+<script type='text/javascript' src='wp-content/plugins/Booking/js/wpbc_times0475.js?ver=8.4.6'></script>
+<link rel='https://api.w.org/' href='wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.html?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.1.13" />
+<meta name="generator" content="WooCommerce 3.5.10" />
+<link rel="canonical" href="index.html" />
+<link rel='shortlink' href='index.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed4767.json?url=http%3A%2F%2FEfuel.like-themes.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed607f?url=http%3A%2F%2FEfuel.like-themes.com%2F&amp;format=xml" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://Efuel.like-themes.com"><link rel="https://theeventscalendar.com/" href="wp-json/tribe/events/v1/index.html" />	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://Efuel.like-themes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><link rel="icon" href="wp-content/uploads/2018/08/cropped-favicon-48x48.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/2018/08/cropped-favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2018/08/cropped-favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="http://Efuel.like-themes.com/wp-content/uploads/2018/08/cropped-favicon-300x300.png" />
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1535673983335{padding-top: 0px !important;background-image: url(wp-content/uploads/2018/08/services-bg3204.png?id=5828) !important;}.vc_custom_1535673989235{padding-top: 0px !important;}.vc_custom_1535648382329{padding-top: 0px !important;background-image: url(http://Efuel.like-themes.com/wp-content/uploads/2018/08/parallax_skills.jpg?id=5733) !important;}.vc_custom_1535668809194{margin-top: -85px !important;}.vc_custom_1535577129497{padding-top: 0px !important;}.vc_custom_1535632208479{padding-top: 0px !important;}.vc_custom_1535665402354{margin-top: 60px !important;}.vc_custom_1535922167608{margin-bottom: 0px !important;}.vc_custom_1535922347324{margin-top: -12px !important;margin-bottom: 30px !important;}.vc_custom_1532977936460{padding-top: 0px !important;}.vc_custom_1535579539288{margin-bottom: 12px !important;}.vc_custom_1535577891175{margin-bottom: 0px !important;}.vc_custom_1535578077641{margin-top: 0px !important;margin-bottom: 32px !important;}.vc_custom_1535578198951{margin-bottom: 0px !important;}.vc_custom_1535578206311{margin-top: 0px !important;margin-bottom: 32px !important;}.vc_custom_1535669298326{padding-top: 0px !important;}.vc_custom_1535669275543{background-image: url(http://Efuel.like-themes.com/wp-content/uploads/2018/08/card_BG.jpg?id=5731) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1535647984415{margin-bottom: 0px !important;}.vc_custom_1535647991167{margin-top: 0px !important;}.vc_custom_1535634185745{margin-bottom: 64px !important;}.vc_custom_1535729859336{margin-top: -15px !important;margin-bottom: 0px !important;}.vc_custom_1535729852882{margin-top: -15px !important;margin-bottom: 0px !important;padding-bottom: 0px !important;}.vc_custom_1535631601698{background-image: url(http://Efuel.like-themes.com/wp-content/uploads/2018/08/mobile-bg.png?id=5805) !important;}.vc_custom_1535631001311{margin-bottom: 32px !important;}.vc_custom_1535572769810{margin-top: 36px !important;margin-bottom: 0px !important;}.vc_custom_1535574409895{margin-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-5151 woocommerce-no-js tribe-no-js masthead-fixed full-width footer-widgets grid paceloader-enabled wpb-js-composer js-comp-ver-5.7 vc_responsive">
+
+<div id="preloader"></div><div class="ltx-topbar-block" style=" background: linear-gradient(49deg, #559fe0, #6bdc34);">
+		<div class="container">
+			<div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex">
+				<div class="wpb_column vc_column_container vc_col-sm-8 vc_col-lg-12 vc_col-md-8">
+					<div class="vc_column-inner">
+						<div class="wpb_wrapper">
+							<ul class="block-icon icons-count-2  ltx-icon-h-right align-left i-transparent layout-inline"
+								id="like_sc_block_icon_67385095">
+								<li>
+									<div data-mh="ltx-block-icon-in-1262" class=""><span
+											class="icon ltx-icon-fa fa fa-phone-square  bg-bg-transparent" style="color: #efe6e6;"
+											data-m3h="ltx-icon-span-like_sc_block_icon_67385095"></span>
+										<div class="block-right">
+											<h6 class="header"> +91-8080850509 </h6>
+											<div class="descr"></div>
+										</div>
+									</div>
+								</li>
+								
+								<li>
+									<div data-mh="ltx-block-icon-in-1262" class=""><a href="#"
+											class="icon ltx-icon-fa fa fa-envelope  bg-bg-transparent" style="color: #efe6e6;"></a><a href="#"
+											class="block-right">
+											<h6 class="header">info@ultragreen.in<br />
+											</h6>
+											<div class="descr"></div>
+										</a></div>
+								</li>
+							</ul>
+							
+							<div class="ltx-social ltx-nav-second"><span class="header"><span>Follow us</span></span>
+								<ul>
+									<li><a href="#" target="_self"><span class="fa fa-twitter"></span></a></li>
+									<li><a href="#" target="_self"><span class="fa fa-facebook-f"></span></a></li>
+									<li><a href="#" target="_self"><span class="fa fa-instagram"></span></a></li>
+									<li><a href="#" target="_self"><span class="fa fa-google-plus"></span></a></li>
+									
+								</ul>
+								
+							</div>
+							
+						</div>
+					</div>
+					<style>
+        .blink {
+            animation: blinker 1.5s linear infinite;
+            color: red;
+            font-family: sans-serif;
+        }
+        @keyframes blinker {
+            50% {
+                opacity: 0;
+            }
+        }
+    </style>
+					<marquee class="blink">Win Cashback upto 100 rupees*</marquee>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+<div class="sticky-icon">
+        <a href="https://api.whatsapp.com/send?phone=8080850509&amp;text=Hello"  class="Instagram"><i class="fa fa-whatsapp"></i> Whatsapp </a>
+        
+    </div>
+<div id="nav-wrapper" class="navbar-layout-transparent">
+	<nav class="navbar" data-spy="affix" data-offset-top="0">
+		<div class=" container">
+					
+			<div class="navbar-logo ">	
+				<a class="logo" ><img src="wp-content/themes/Efuel/assets/images/logotp.png" alt="Efuel"></a>			</div>
+			<div id="navbar" class="navbar-collapse collapse" data-mobile-screen-width="1199">
+				<div class="toggle-wrap">
+					<a class="logo" href="homepage.html"><img src="D:\ultraenergy\ultraEnergy\Efuel.like-themes.com\wp-content\themes\Efuel\assets\images\logo2.png" alt="Efuel "></a>						
+					<button type="button" class="navbar-toggle collapsed">
+						<span class="close"><span class="fa fa-close"></span></span>
+					</button>							
+					<div class="clearfix"></div>
+				</div>
+				<ul id="menu-main-menu" class="nav navbar-nav"><li id="menu-item-5953" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-25 current_page_item menu-item-5953"><a href="#" ><span>Home</span></a>
+</li>
+<li id="menu-item-3557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3557"><a ><span>About us</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-5894" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5894"><a href="about-company/index.html" ><span>About company</span></a></li>
+	<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="testimonials/index.html" ><span>Testimonials</span></a></li>
+	<li id="menu-item-750" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-750"><a href="team/index.html" ><span>Team</span></a></li>
+	<li id="menu-item-2364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2364"><a href="faq/index.html" ><span>FAQ</span></a></li>
+
+</ul>
+</li>
+<li id="menu-item-60" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-25  menu-item-60"><a href="gallery-3-columns\gallery.html" ><span>Gallery</span></a>
+</li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="contacts/index.html" ><span>Contacts</span></a></li>
+
+
+
+<style>
+.btn1 {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 5px 12px;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius:5px;
+  padding-left:20px;
+  
+}
+
+.btn1:hover {
+  background-color: RoyalBlue;
+}
+</style>
+<button class="btn1" ><i class="fa fa-download"></i> Download</button>
+</ul>
+
+							
+			</div>
+			<div class="navbar-controls">	
+				<button type="button" class="navbar-toggle collapsed">
+					<span class="icon-bar top-bar"></span>
+					<span class="icon-bar middle-bar"></span>
+					<span class="icon-bar bottom-bar"></span>
+				</button>			
+							</div>
+		</div>
+	</nav>
+</div>
+	<div class="container main-wrapper">
+	<!-- Content -->
+	<div class="inner-page text-page margin-disabled">
+        <div class="row">
+        	            <div class=" col-md-12 text-page">
+				<article id="post-5151" class="post-5151 page type-page status-publish hentry">
+	<div class="entry-content clearfix" id="entry-div">
+		<section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section ltx-sr ltx-sr-effect-fade_in ltx-sr-id-456954215 ltx-sr-el-text_el ltx-sr-delay-500 ltx-sr-duration-300 ltx-sr-sequences-100"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 80px;"></div>	<div class="visible-md" style="height: 80px;"></div>	<div class="visible-sm " style="height: 80px;"></div>	<div class="visible-ms" style="height: 0px;"></div>	<div class="visible-xs" style="height: 0px;"></div></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid ltx-slider-bg vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1535665402354  ltx-slider-flowing">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="268" height="542" src="wp-content/uploads/2018/08/slider-flowing.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-flowing.jpg 268w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-flowing-148x300.jpg 148w" sizes="(max-width: 268px) 100vw, 268px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_slideInRight slideInRight  ltx-car-right">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1352" height="608" src="wp-content/uploads/2018/08/slider-car-full.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full.jpg 1352w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-300x135.jpg 300w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-768x345.jpg 768w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-1024x460.jpg 1024w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-340x153.jpg 340w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-600x270.jpg 600w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-755x340.jpg 755w" sizes="(max-width: 1352px) 100vw, 1352px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid text-align-center-ms"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 32px;"></div>	<div class="visible-md" style="height: 32px;"></div>	<div class="visible-sm " style="height: 32px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div><div class="heading  default align-left color-main subcolor-main icon-type-hidden   vc_custom_1535922167608 heading-tag-h1" id="like_sc_header_1535971892"><h1 class="header ltx-sr-id-like_sc_header_15359718921570480342 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">EV-Charging points</h1></div><div class="heading  heading-large default align-left color-black subcolor-main icon-type-hidden   vc_custom_1535922347324 heading-tag-h2" id="like_sc_header_1311915663"><h2 class="header ltx-sr-id-like_sc_header_13119156631342533625 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">for your amenity</h2></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Our company Ultra Green Power introduced a new generation of Electric Vehicles. That influences use of electric vehicles amoung the people.</p>
+
+		</div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_hidden-lg vc_hidden-md vc_hidden-sm"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1352" height="608" src="wp-content/uploads/2018/08/slider-car-full.jpg" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full.jpg 1352w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-300x135.jpg 300w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-768x345.jpg 768w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-1024x460.jpg 1024w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-340x153.jpg 340w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-600x270.jpg 600w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/slider-car-full-755x340.jpg 755w" sizes="(max-width: 1352px) 100vw, 1352px" /></div>
+		</figure>
+	</div>
+</div></div></div></div>
+
+
+
+<div class="vc_row wpb_row vc_row-fluid text-align-center-ms"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 48px;"></div>	<div class="visible-md" style="height: 22px;"></div>	<div class="visible-sm " style="height: 22px;"></div>	<div class="visible-ms" style="height: 22px;"></div>	<div class="visible-xs" style="height: 22px;"></div></div><div class="btn-wrap"><a href="../Efuel.like-themes.com\contacts/index.html" class="btn  btn-lg btn-default color-hover-default" id="like_sc_button_1843792560">Contact Us</a></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 68px;"></div>	<div class="visible-md" style="height: 24px;"></div>	<div class="visible-sm " style="height: 24px;"></div>	<div class="visible-ms" style="height: 24px;"></div>	<div class="visible-xs" style="height: 24px;"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 134px;"></div>	<div class="visible-md" style="height: 134px;"></div>	<div class="visible-sm " style="height: 134px;"></div>	<div class="visible-ms" style="height: 64px;"></div>	<div class="visible-xs" style="height: 64px;"></div></div></div></div></div></div>
+
+
+
+</section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section vc_custom_1535673983335 vc_section-has-fill bg-color-black bg-repeat-x bg-pos-left-top"><div class="vc_row wpb_row vc_row-fluid vc_custom_1532977936460 text-align-center-ms"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 40px;"></div>	<div class="visible-md" style="height: 40px;"></div>	<div class="visible-sm " style="height: 40px;"></div>	<div class="visible-ms" style="height: 16px;"></div>	<div class="visible-xs" style="height: 16px;"></div></div><div class="heading  line-after align-left color-white subcolor-main icon-type-hidden   vc_custom_1535579539288 heading-tag-h3" id="like_sc_header_267850848"><h3 class="header ltx-sr-id-like_sc_header_2678508482118190064 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">We are the leading and enhanced installer of <span> modern electric </span> vehicle charging stations</h3></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 32px;"></div>	<div class="visible-md" style="height: 32px;"></div>	<div class="visible-sm " style="height: 32px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div><div class="services-sc  layout-photos ltx-style-gray row"><div class="swiper-container services-slider" data-cols="3" data-autoplay="0">
+				
+				<div class="swiper-wrapper">			<article id="post-5854" class="swiper-slide" data-mh="ltx-services">
+			    
+			        <img width="690" height="410" src="wp-content\uploads\2018\11\fast_charging.jpg" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">Fast Charging</h4></div><p>Electric vehicle batteries charge up to 2 times faster.</p>			</article>
+						<article id="post-5855" class="swiper-slide" data-mh="ltx-services">
+			   
+			        <img width="690" height="410" src="wp-content/uploads/2018/08/serv_02-690x410.jpg" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">Compability</h4></div><p>Open standard: all common e-bike brands can be charged quickly and safely.</p>			</article>
+						<article id="post-5856" class="swiper-slide" data-mh="ltx-services">
+			    
+			        <img width="690" height="410" src="wp-content\uploads\2018\11\cable.jpg" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">Safety</h4></div><p>Safe to charge in any weather, without loss of warranty.</p>	</article>
+						<article id="post-5306" class="swiper-slide" data-mh="ltx-services">
+			    
+			        <img width="690" height="410" src="wp-content\uploads\2018\11\qualityf.jpg" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">Intelligent charging</h4></div><p>Battery-saving effect thanks to an intelligent charging system.</p>	</article>
+						<article id="post-5308" class="swiper-slide" data-mh="ltx-services">
+			    
+			        <img width="690" height="410" src="wp-content\uploads\2018\11\meter3.jpg" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">Correct Meter</h4></div><p>Authentic use of cables and meters for correct and accurate data .</p>		</article>
+						<article id="post-5307" class="swiper-slide" data-mh="ltx-services">
+			    
+			        <img width="690" height="410" src="wp-content\uploads\2018\11\twentyfour2..gif" class="attachment-Efuel-service size-Efuel-service" alt="" />			    </a>
+			    <div class="heading header-underline"><h4 class="header">24/7</h4></div><p>We are available 24/7 for your convinence and better user Experience.</p>		</article>
+			
+		</div>
+		
+			<div class="arrows">
+				<a href="#" class="arrow-left fa fa-arrow-left"></a>
+				<a href="#" class="arrow-right fa fa-arrow-right"></a>
+			</div>
+		</div></div>
+		
+		
+		<div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 80px;"></div>	<div class="visible-md" style="height: 80px;"></div>	<div class="visible-sm " style="height: 80px;"></div>	<div class="visible-ms" style="height: 80px;"></div>	<div class="visible-xs" style="height: 80px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section vc_custom_1535673989235 bg-color-theme_color ltx-overlay bg-overlay-gradient ltx-sr ltx-sr-effect-fade_in ltx-sr-id-651776623 ltx-sr-el-list_el ltx-sr-delay-200 ltx-sr-duration-300 ltx-sr-sequences-100"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 46px;"></div>	<div class="visible-md" style="height: 46px;"></div>	<div class="visible-sm " style="height: 46px;"></div>	<div class="visible-ms" style="height: 46px;"></div>	<div class="visible-xs" style="height: 46px;"></div></div><ul class="block-icon icons-count-4  ltx-icon-ht-right align-left i-transparent layout-cols4 row"  id="like_sc_block_icon_1413756984"><li class=" col-lg-3 col-md-6 col-sm-6 col-ms-12 col-xs-12 ltx-icon-image" ><div data-mh="ltx-block-icon-in-1680" class="in matchHeight"><span class="icon ltx-icon-image bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_1413756984" ><img src="wp-content/uploads/2018/08/level-1-1.png" class="ltx-icon-image" alt="Level 1"></span><div class="block-right"> <h4 class="header"> 2 Wheeler </h4> <div class="descr">Full charge-30min(3.5KV)</div></div></div></li><li class=" col-lg-3 col-md-6 col-sm-6 col-ms-12 col-xs-12 ltx-icon-image" ><div data-mh="ltx-block-icon-in-1680" class="in matchHeight"><span class="icon ltx-icon-image bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_1413756984" ><img src="wp-content/uploads/2018/08/level-2-1.png" class="ltx-icon-image" alt=" 2 Wheeler"></span><div class="block-right"> <h4 class="header"> 4 Wheeler </h4> <div class="descr">Full charge-1 hr (120KV)</div></div></div></li><li class=" col-lg-3 col-md-6 col-sm-6 col-ms-12 col-xs-12 ltx-icon-image" ><div data-mh="ltx-block-icon-in-1680" class="in matchHeight"><span class="icon ltx-icon-image bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_1413756984" ><img src="wp-content/uploads/2018/08/level-3.png" class="ltx-icon-image" alt="Level 3"></span><div class="block-right"> <h4 class="header">E-Rikshaw</h4> <div class="descr">Per KV 5 min to charge    </div></div></div></li><li class=" col-lg-3 col-md-6 col-sm-6 col-ms-12 col-xs-12 ltx-icon-image" ><div data-mh="ltx-block-icon-in-1680" class="in matchHeight"><span class="icon ltx-icon-image bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_1413756984" ><img src="wp-content/uploads/2018/08/level-4-1.png" class="ltx-icon-image" alt="Level 4"></span><div class="block-right"> <h4 class="header"> Commercial </h4> <div class="descr">120KV per Hour to charge</div></div></div></li></ul><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 36px;"></div>	<div class="visible-md" style="height: 36px;"></div>	<div class="visible-sm " style="height: 36px;"></div>	<div class="visible-ms" style="height: 36px;"></div>	<div class="visible-xs" style="height: 36px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section bg-color-gray"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 36px;"></div>	<div class="visible-md" style="height: 36px;"></div>	<div class="visible-sm " style="height: 36px;"></div>	<div class="visible-ms" style="height: 16px;"></div>	<div class="visible-xs" style="height: 16px;"></div></div><div class="ltx-content-width col-align-center" id="like_sc_content_width_1762728656" style="max-width: 650px"><div class="ltx-wrapper"><div class="heading  header-underline align-center color-black subcolor-main icon-type-hidden heading-tag-h3" id="like_sc_header_584557716"><h3 class="header ltx-sr-id-like_sc_header_5845577161231181004 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">What advantages <span> will you get </span> using our electric station?</h3></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid text-align-center-ms ltx-sr ltx-sr-effect-fade_in ltx-sr-id-1935578733 ltx-sr-el-list_el ltx-sr-delay-200 ltx-sr-duration-300 ltx-sr-sequences-100"><div class="wpb_animate_when_almost_visible wpb_slideInLeft slideInLeft wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 text-align-center-ms"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 100px;"></div>	<div class="visible-md" style="height: 0px;"></div>	<div class="visible-sm " style="height: 0px;"></div>	<div class="visible-ms" style="height: 0px;"></div>	<div class="visible-xs" style="height: 0px;"></div></div><ul class="block-icon icons-count-3  ltx-icon-ht-right align-left i-circle layout-col1"  id="like_sc_block_icon_867342055"><li ><div data-mh="ltx-block-icon-in-1960" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_867342055" >01</span><div class="block-right"> <h4 class="header"> High quality </h4> <div class="descr">Best Quality assuarance for all the devices used.</div></div></div></li><li ><div data-mh="ltx-block-icon-in-1960" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_867342055" >02</span><div class="block-right"> <h4 class="header"> Sustainable </h4> <div class="descr">Join the Race to Make the World a Better Place.</div></div></div></li><li ><div data-mh="ltx-block-icon-in-1960" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_867342055" >03</span><div class="block-right"> <h4 class="header"> Faster </h4> <div class="descr"> Efficient fast charging to reduce the unnecesary time of the user.</div></div></div></li></ul></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_hidden-md vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 32px;"></div>	<div class="visible-md" style="height: 32px;"></div>	<div class="visible-sm " style="height: 32px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div>
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomIn zoomIn  ltx-splash-parent">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="550" height="590" src="wp-content/uploads/2018/08/advantage-1-1.png" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-1-1.png 550w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-1-1-280x300.png 280w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-1-1-340x365.png 340w" sizes="(max-width: 550px) 100vw, 550px" /></div>
+		</figure>
+	</div>
+
+	<div  class="wpb_single_image wpb_content_element vc_align_center   ltx-ice-splash ltx-sr ltx-sr-effect-zoom_in  ltx-sr-id-542069785  ltx-sr-el-block  ltx-sr-delay-200  ltx-sr-duration-800  ltx-sr-sequences-100">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="568" height="568" src="wp-content/uploads/2018/08/advantage-bg.png" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg.png 568w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-150x150.png 150w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-300x300.png 300w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-340x340.png 340w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-100x100.png 100w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-24x24.png 24w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-48x48.png 48w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-96x96.png 96w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/advantage-bg-58x58.png 58w" sizes="(max-width: 568px) 100vw, 568px" /></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_animate_when_almost_visible wpb_slideInRight slideInRight wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6 text-align-center-ms"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 100px;"></div>	<div class="visible-md" style="height: 0px;"></div>	<div class="visible-sm " style="height: 0px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div><ul class="block-icon icons-count-3  ltx-icon-ht-right align-left i-circle layout-col1"  id="like_sc_block_icon_986232480"><li ><div data-mh="ltx-block-icon-in-1200" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_986232480" >04</span><div class="block-right"> <h4 class="header"> Convinient </h4> <div class="descr">Convinient for all the Electric vehicle users.</div></div></div></li><li ><div data-mh="ltx-block-icon-in-1200" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_986232480" >05</span><div class="block-right"> <h4 class="header"> Congenial </h4> <div class="descr">Best customer experience with plesant behaviour of our team. </div></div></div></li><li ><div data-mh="ltx-block-icon-in-1200" class="in matchHeight"><span class="icon ltx-icon-text bg-bg-transparent" data-m3h="ltx-icon-span-like_sc_block_icon_986232480" >06</span><div class="block-right"> <h4 class="header"> Authentic </h4> <div class="descr">Only the authentic products of authentic brands are used.</div></div></div></li></ul></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 100px;"></div>	<div class="visible-md" style="height: 100px;"></div>	<div class="visible-sm " style="height: 100px;"></div>	<div class="visible-ms" style="height: 80px;"></div>	<div class="visible-xs" style="height: 80px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 48px;"></div>	<div class="visible-md" style="height: 48px;"></div>	<div class="visible-sm " style="height: 48px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div><div class="heading  header-underline align-center color-black subcolor-main icon-type-hidden heading-tag-h3" id="like_sc_header_504383889"><h3 class="header ltx-sr-id-like_sc_header_5043838891043129279 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Compatible with all vehicle brands</h3></div><div class="ltx-partners ltx-hover-logos  layout-" id="like_sc_header_1458149281"><div class="row">
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-8.png" class="image" alt="."></div></div>
+				</div>
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-2.png" class="image" alt="."></div></div>
+				</div>
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-3.png" class="image" alt="."></div></div>
+				</div>
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-4.png" class="image" alt="."></div></div>
+				</div>
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-5.png" class="image" alt="."></div></div>
+				</div>
+				<div class=" col-md-2  col-sm-4 col-ms-6 col-xs-6  partners-wrap  center-flex" data-mh="ltx-partners">
+					<div class="partners-item item center-flex"><div class="photo"><img src="wp-content/uploads/2018/09/partner-new-6.png" class="image" alt="."></div></div>
+				</div>
+				
+				</div></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 120px;"></div>	<div class="visible-md" style="height: 120px;"></div>	<div class="visible-sm " style="height: 120px;"></div>	<div class="visible-ms" style="height: 90px;"></div>	<div class="visible-xs" style="height: 90px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" data-vc-parallax="1.5" class="vc_section vc_custom_1535648382329 vc_section-has-fill vc_general vc_parallax vc_parallax-content-moving bg-color-black bg-pos-right-top ltx-overlay bg-overlay-xblack"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 32px;"></div>	<div class="visible-md" style="height: 32px;"></div>	<div class="visible-sm " style="height: 32px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid text-align-center-ms"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="heading  heading-large default align-left color-white subcolor-main icon-type-hidden   vc_custom_1535577891175 heading-tag-h2" id="like_sc_header_795279790"><h2 class="header ltx-sr-id-like_sc_header_7952797901714063092 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">20662902000 Rupees</h2></div><div class="heading  default align-left color-main subcolor-main icon-type-hidden   vc_custom_1535578077641 heading-tag-h4" id="like_sc_header_1742819987"><h4 class="header ltx-sr-id-like_sc_header_1742819987996203201 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Daily saving money on fuel</h4></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_1995958382" style="max-width: 400px"><div class="ltx-wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>As electric vehicles saves the money on fuel it is now the ever increasing field of new generation of vehicles. It also helps in saving the environmental resources.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="heading  heading-large default align-left color-white subcolor-main icon-type-hidden   vc_custom_1535578198951 heading-tag-h2" id="like_sc_header_773567062"><h2 class="header ltx-sr-id-like_sc_header_7735670622017618198 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">1300 electric cars</h2></div><div class="heading  default align-left color-main subcolor-main icon-type-hidden   vc_custom_1535578206311 heading-tag-h4" id="like_sc_header_977095127"><h4 class="header ltx-sr-id-like_sc_header_9770951271730371948 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Sold every day in the world</h4></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_884262934" style="max-width: 400px"><div class="ltx-wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>The running cost of an electric vehicle is much lower than an equivalent petrol or diesel vehicle. Electric vehicles are more efficient.</p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 150px;"></div>	<div class="visible-md" style="height: 150px;"></div>	<div class="visible-sm " style="height: 150px;"></div>	<div class="visible-ms" style="height: 150px;"></div>	<div class="visible-xs" style="height: 150px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section class="vc_section vc_custom_1535668809194 vc_section-o-content-middle vc_section-flex border_shadow ltx-cards-block text-align-center-ms ltx-sr ltx-sr-effect-fade_in ltx-sr-id-1234547139 ltx-sr-el-list_el ltx-sr-delay-200 ltx-sr-duration-300 ltx-sr-sequences-100"><div class="vc_row wpb_row vc_row-fluid vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-5 bg-color-white text-align-center-sm-ms"><div class="vc_column-inner vc_custom_1535669298326"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 16px;"></div>	<div class="visible-md" style="height: 16px;"></div>	<div class="visible-sm " style="height: 16px;"></div>	<div class="visible-ms" style="height: 0px;"></div>	<div class="visible-xs" style="height: 0px;"></div></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_92275173" style="max-width: 360px"><div class="ltx-wrapper"><div class="heading  heading-large default align-left color-main subcolor-main icon-type-hidden   vc_custom_1535647984415 heading-tag-h2" id="like_sc_header_1086283476"><h2 class="header ltx-sr-id-like_sc_header_1086283476607770151 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Get your</h2></div><div class="heading  heading-large default align-left color-black subcolor-main icon-type-hidden   vc_custom_1535647991167 heading-tag-h2" id="like_sc_header_1825543179"><h2 class="header ltx-sr-id-like_sc_header_182554317956051215 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">charging cards</h2></div></div></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_410470935" style="max-width: 400px"><div class="ltx-wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>We also provide the charging cards to our customers to make the task more easy and fast. Customer can use the e-cards for payment purpose.</p>
+
+		</div>
+	</div>
+</div></div><div class="btn-wrap"><a href="../Efuel.like-themes.com\about-company/index.html" class="btn  btn-lg btn-default color-hover-default" id="like_sc_button_50927568">Know about Us</a></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 80px;"></div>	<div class="visible-md" style="height: 80px;"></div>	<div class="visible-sm " style="height: 80px;"></div>	<div class="visible-ms" style="height: 48px;"></div>	<div class="visible-xs" style="height: 48px;"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-md-7 vc_col-has-fill bg-color-theme_color"><div class="vc_column-inner vc_custom_1535669275543"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  wpb_animate_when_almost_visible wpb_zoomIn zoomIn">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="396" height="283" src="wp-content/uploads/2018/08/cards.png" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/cards.png 396w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/cards-300x214.png 300w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/cards-340x243.png 340w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/cards-110x80.png 110w" sizes="(max-width: 396px) 100vw, 396px" /></div>
+		</figure>
+	</div>
+</div></div></div></div></section><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section vc_custom_1535577129497 bg-pos-center-center"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 64px;"></div>	<div class="visible-md" style="height: 64px;"></div>	<div class="visible-sm " style="height: 64px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div><div class="heading  header-underline align-center color-black subcolor-main icon-type-hidden   vc_custom_1535634185745 heading-tag-h3" id="like_sc_header_702724057"><h3 class="header ltx-sr-id-like_sc_header_702724057119950657 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Choose your ready-made solution</h3></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div data-mh="ltx-tariff-item" class="tariff-item item matchHeight "  id="like_sc_tariff_1416094047"><div class="image"><img src="wp-content/uploads/2018/08/tariff-1.png" class="full-width" alt="Home charging"></div><h4 class="header">Time charging</h4><ul><li>Charging station charge on time</li><li>Charge point setting</li><li>Time based charging</li><li>Safe charging</li></ul><div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div data-mh="ltx-tariff-item" class="tariff-item item matchHeight "  id="like_sc_tariff_601931361"><div class="image"><img src="wp-content/uploads/2018/08/tariff-2.png" class="full-width" alt="Public point"></div><h4 class="header">Full Charge</h4><ul><li>Public charging station</li><li>Charge point setting</li><li>full charging for all e-vehicles</li><li>Fixed prizes based on KV</li></ul><div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper"><div data-mh="ltx-tariff-item" class="tariff-item item matchHeight  vip"  id="like_sc_tariff_1762341110"><span class="label-vip">popular</span><div class="image"><img src="wp-content/uploads/2018/08/tariff-3.png" class="full-width" alt="Commercial systems"></div><h4 class="header">Battery Swapping</h4><ul><li>Commercial charging station</li><li>Charge point setting</li><li>Premium Support</li><li>Fully safe battery swapping</li></ul><div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 130px;"></div>	<div class="visible-md" style="height: 130px;"></div>	<div class="visible-sm " style="height: 130px;"></div>	<div class="visible-ms" style="height: 64px;"></div>	<div class="visible-xs" style="height: 64px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section ltx-testimonials vc_custom_1535632208479 vc_section-o-content-middle vc_section-flex bg-color-theme_color bg-pos-center-center ltx-overlay bg-overlay-gradient white-space-top text-align-center-ms"><div class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-7"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 0px;"></div>	<div class="visible-md" style="height: 0px;"></div>	<div class="visible-sm " style="height: 64px;"></div>	<div class="visible-ms" style="height: 64px;"></div>	<div class="visible-xs" style="height: 64px;"></div></div><div class="heading  default align-left color-white subcolor-black has-subheader icon-type-hidden   vc_custom_1535729859336 heading-tag-h3" id="like_sc_header_334007977"><h5 class="subheader ltx-sr-id-like_sc_header_33400797798343872 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-100 ltx-sr-duration-300 ltx-sr-sequences-50">Our mission:</h5><h3 class="header ltx-sr-id-like_sc_header_3340079771698014294 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Make the world cleaner, save natural resources, create comfort for people</h3></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 0px;"></div>	<div class="visible-md" style="height: 0px;"></div>	<div class="visible-sm " style="height: 48px;"></div>	<div class="visible-ms" style="height: 48px;"></div>	<div class="visible-xs" style="height: 48px;"></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-5 vc_hidden-sm vc_hidden-xs"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left  vc_custom_1535729852882">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="314" height="238" src="wp-content/uploads/2018/08/mission-bg-leaves.png" class="vc_single_image-img attachment-full" alt="" srcset="http://Efuel.like-themes.com/wp-content/uploads/2018/08/mission-bg-leaves.png 314w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/mission-bg-leaves-300x227.png 300w" sizes="(max-width: 314px) 100vw, 314px" /></div>
+		</figure>
+	</div>
+</div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section bg-color-gray"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 75px;"></div>	<div class="visible-md" style="height: 75px;"></div>	<div class="visible-sm " style="height: 0px;"></div>	<div class="visible-ms" style="height: 0px;"></div>	<div class="visible-xs" style="height: 0px;"></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 text-align-center-sm-ms"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 64px;"></div>	<div class="visible-md" style="height: 64px;"></div>	<div class="visible-sm " style="height: 16px;"></div>	<div class="visible-ms" style="height: 16px;"></div>	<div class="visible-xs" style="height: 16px;"></div></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_860632105" style="max-width: 600px"><div class="ltx-wrapper"><div class="heading  default align-left color-black subcolor-main icon-type-hidden   vc_custom_1535631001311 heading-tag-h3" id="like_sc_header_1672298677"><h3 class="header ltx-sr-id-like_sc_header_1672298677468731997 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">Check our public <span> charging points </span> in your area.</h3></div></div></div><div class="ltx-content-width col-align-left" id="like_sc_content_width_1636972260" style="max-width: 450px"><div class="ltx-wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><span class="line-height-2">Our e-bike charging stations can charge both e-bikes and e-cars. The charging stations are mainly in public areas. Fast charging for electric cars with Type 1 or Type 2 connection. For charging on the go without a home charger.</span></p>
+		<a href="../Efuel.like-themes.com\contacts/index.html" class="btn  btn-lg btn-default color-hover-default" id="like_sc_button_1843792560">Check</a>
+		</div>
+	</div>
+</div></div><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 32px;"></div>	<div class="visible-md" style="height: 32px;"></div>	<div class="visible-sm " style="height: 16px;"></div>	<div class="visible-ms" style="height: 16px;"></div>	<div class="visible-xs" style="height: 16px;"></div></div>
+
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-6 vc_col-has-fill bg-pos-center-center"><div class="vc_column-inner vc_custom_1535631601698"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center   ltx-mobile-flowing">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img src="wp-content/uploads/2018/08/mobile-1.png" class="vc_single_image-img attachment-full" alt="" srcset="wp-content/uploads/2018/08/mobile-1.png 284w, http://Efuel.like-themes.com/wp-content/uploads/2018/08/mobile-1-159x300.png 159w" sizes="(max-width: 284px) 100vw, 284px" /></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 64px;"></div>	<div class="visible-md" style="height: 64px;"></div>	<div class="visible-sm " style="height: 32px;"></div>	<div class="visible-ms" style="height: 32px;"></div>	<div class="visible-xs" style="height: 32px;"></div></div></div></div></div></div></section><div class="vc_row-full-width vc_clearfix"></div><section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section ltx-sr ltx-sr-effect-fade_in ltx-sr-id-1690713011 ltx-sr-el-items ltx-sr-delay-200 ltx-sr-duration-500 ltx-sr-sequences-200"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="es-resp">	<div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs" style="height: 48px;"></div>	<div class="visible-md" style="height: 48px;"></div>	<div class="visible-sm " style="height: 48px;"></div>	<div class="visible-ms" style="height: 48px;"></div>	<div class="visible-xs" style="height: 48px;"></div></div>
+
+	
+
+	
+</div>
+	</div>
+</article>
+            </div>
+        	        
+        </div>
+	</div>
+
+    </div>
+<div class="ltx-footer-social"><div class="container"><div class="row"><div class="col-lg-3 col-md-6 col-sm-6"><a href="../contacts/index.html" target="_blank" class="item"
+						data-mh="ltx-social-footer"><span class="icon fa fa-map-marker"></span><span
+							class="header">1169 E ward tarabaipark kolhapur 416003</span></a></div>
+				<div class="col-lg-3 col-md-6 col-sm-6"><a href="tel:8080850509" target="_blank" class="item"
+						data-mh="ltx-social-footer"><span class="icon fa fa-phone"></span><span
+							class="header">+8080850509</span></a></div>
+				<div class="col-lg-3 col-md-6 col-sm-6"><a href="mailto:info@ultragreenpower.in" target="_blank" class="item"
+						data-mh="ltx-social-footer"><span class="icon fa fa-envelope"></span><span
+							class="header">info@ultragreenpower.in</span></a></div>
+				<div class="col-lg-3 col-md-6 col-sm-6"><a href="#" target="_blank" class="item"
+						data-mh="ltx-social-footer"><span class="icon fa fa-skype"></span><span
+							class="header">www.ultragreenpower.in</span></a></div>
+			</div></div></div>		<section id="ltx-widgets-footer">
+			<div class="container container-short">
+				<div class="row">
+	                	                    						<div class="col-md-8 col-md-offset-2 text-align-center   matchHeight clearfix">    
+							<div class="footer-widget-area">
+								<div id="media_image-2" class="widget widget_media_image"><img width="170" height="57" src="wp-content/uploads/2018/08/logo6.png" class="image wp-image-5787  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div><div id="text-8" class="widget widget_text">			<div class="textwidget"><p>We pledged to serve to the customers and the mother nature by providing best customer experience and taking a step towards stopping Pollution.</p>
+</div>
+		</div><div class="ltx-social ltx-nav-second"><ul><li><a href="#" target="_self"><span class="fa fa-twitter"></span></a></li><li><a href="#" target="_self"><span class="fa fa-facebook-f"></span></a></li><li><a href="#" target="_self"><span class="fa fa-instagram"></span></a></li><li><a href="#" target="_self"><span class="fa fa-google-plus"></span></a></li></ul></div><div id="text-9" class="widget widget_text">			<div class="textwidget">
+</div>
+		</div>							</div>
+						</div>
+							                	                    	                	                    	                	                    	                				</div>
+			</div>
+		</section>
+	    		<footer class="copyright-block copyright-layout-default">
+			<div class="container">
+	            <p><a href="https://themeforest.net/user/like-themes"></a> © All Rights Reserved - 2022 <a href="#">Ultra Green Power</a></p><a href="#" class="ltx-go-top ltx-go-top-img floating"><img width="18" height="28" src="wp-content/uploads/2018/08/go-top.png" class="attachment-full size-full" alt="" /><span>go top</span></a>			</div>
+		</footer>
+				<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};var tribe_system_info = {"sysinfo_optin_nonce":"bee4899e11","clipboard_btn_text":"Copy to clipboard","clipboard_copied_text":"System info copied","clipboard_fail_text":"Press \"Cmd + C\" to copy"};/* ]]> */ </script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='animate-css-css'  href='wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.mine23c.css?ver=5.7' type='text/css' media='all' />
+<script type='text/javascript' src='wp-content/plugins/metronet-profile-picture/js/mpp-frontend.min4c71.js?ver=2.1.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/Efuel.like-themes.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts3c21.js?ver=5.1.1'></script>
+<script type='text/javascript' src='wp-content/plugins/simple-share-buttons-adder/js/ssbad934.js?ver=5.1.13'></script>
+<script type='text/javascript'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.minb284.js?ver=3.5.10'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d03014eba0682fbe1d4a39f0981a526a","fragment_name":"wc_fragments_d03014eba0682fbe1d4a39f0981a526a"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.minb284.js?ver=3.5.10'></script>
+<script type='text/javascript' src='wp-includes/js/imagesloaded.min55a0.js?ver=3.2.0'></script>
+<script type='text/javascript' src='wp-includes/js/masonry.mind617.js?ver=3.3.2'></script>
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.masonry.minef70.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.countdown3601.js?ver=2.2.0'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.counterup.min5152.js?ver=1.0'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.matchHeightd934.js?ver=5.1.13'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.nicescroll87e3.js?ver=3.7.6'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.swipeboxc2d0.js?ver=1.4.4'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.zoomsliderf096.js?ver=0.2.3'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/waypoint1f22.js?ver=1.6.2'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/affix7433.js?ver=3.3.7'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/jquery.paroller.mine7f0.js?ver=1.3.1'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/swiperb523.js?ver=4.3.3'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/parallax.minc358.js?ver=1.1.3'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/parallax-scroll.min5152.js?ver=1.0'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/scrollreveal7984.js?ver=3.3.4'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/scriptse29d.js?ver=1.4.9'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/map-style8a54.js?ver=1.0.0'></script>
+<script type='text/javascript' src='wp-content/themes/Efuel/assets/js/paced934.js?ver=5.1.13'></script>
+<script type='text/javascript' src='wp-includes/js/wp-embed.mind934.js?ver=5.1.13'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.mine23c.js?ver=5.7'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.mine23c.js?ver=5.7'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.mine23c.js?ver=5.7'></script>
+</body>
+
+<!-- Mirrored from Efuel.like-themes.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 04 Aug 2022 06:56:23 GMT -->
+</html>
+
+<!-- Dynamic page generated in 1.082 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-08-04 06:53:07 -->
+
+<!-- super cache -->
